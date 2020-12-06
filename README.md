@@ -10,4 +10,4 @@ For scale=4, the code does not support the direct output, you need to get the x4
 
 MainFunction: Yc_main.m
 
-The code is not optimized and also is not well-organized. We will optimize the code later.
+The code is runnable, but is not optimized and also is not well-organized. We will optimize the code later.
